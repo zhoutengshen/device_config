@@ -22,7 +22,7 @@
             "padding": "0, 0, 0, 0",
             "snapOnInput": true,
             "useAcrylic": true,
-            "backgroundImage": "https://vlad.studio/zh/fullscreen-preview/?f=space_walk&w=1920&h=1080",
+            "backgroundImage": "https://raw.githubusercontent.com/zhoutengshen/device_config/master/imgs/alien.jpg",
             "backgroundImageStretchMode": "fill"
         },
         {
@@ -40,7 +40,7 @@
             "padding": "0, 0, 0, 0",
             "snapOnInput": true,
             "useAcrylic": true,
-            "backgroundImage": "https://vlad.studio/zh/fullscreen-preview/?f=space_walk&w=1920&h=1080",
+            "backgroundImage": "https://raw.githubusercontent.com/zhoutengshen/device_config/master/imgs/alien.jpg",
             "backgroundImageStretchMode": "fill"
         },
         {
@@ -58,7 +58,7 @@
             "padding": "0, 0, 0, 0",
             "snapOnInput": true,
             "useAcrylic": true,
-            "backgroundImage": "https://vlad.studio/zh/fullscreen-preview/?f=space_walk&w=1920&h=1080",
+            "backgroundImage": "https://raw.githubusercontent.com/zhoutengshen/device_config/master/imgs/alien.jpg",
             "backgroundImageStretchMode": "fill"
         },
         {
@@ -77,7 +77,7 @@
             "padding": "0, 0, 0, 0",
             "snapOnInput": true,
             "useAcrylic": true,
-            "backgroundImage": "https://vlad.studio/zh/fullscreen-preview/?f=space_walk&w=1920&h=1080",
+            "backgroundImage": "https://raw.githubusercontent.com/zhoutengshen/device_config/master/imgs/alien.jpg",
             "backgroundImageOpacity": 0.5,
             "backgroundImageStretchMode": "fill"
         }
